@@ -1,0 +1,26 @@
+{
+  "name": "curso_bootstrap_4_ricardo_sanches",
+  "version": "1.0.0",
+  "description": "Criando um site com Bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviteixeira-btm/Aulas_Bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap4",
+    "Sass"
+  ],
+  "author": "Davi Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviteixeira-btm/Aulas_Bootstrap/issues"
+  },
+  "homepage": "https://github.com/daviteixeira-btm/Aulas_Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
