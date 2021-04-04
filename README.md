@@ -24,11 +24,7 @@
   <a href="#-license">License</a>
 </p>
 
-<div align="center>
-	    
-![Printsreen](bootstrap-illustration.png)
-
-</div>
+<img src="bootstrap-illustration.png" min-width="400px" max-width="400px" width="100%" align="center" alt="  Applications with Bootstrap">
 
 ## 👨🏻‍💻 Sobre o projeto
 <p>
