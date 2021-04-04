@@ -3,18 +3,18 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/daviteixeira-btm/SGU-Sistema-de-Gerenciamento-de-Usuarios?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/daviteixeira-btm/Applications-with-Bootstrap?style=flat-square">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/daviteixeira-btm/SGU-Sistema-de-Gerenciamento-de-Usuarios?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/daviteixeira-btm/Applications-with-Bootstrap?style=flat-square">
   
-  <a href="https://github.com/daviteixeira-btm/SGU-Sistema-de-Gerenciamento-de-Usuarios/commits">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daviteixeira-btm/SGU-Sistema-de-Gerenciamento-de-Usuarios?style=flat-square">
+  <a href="https://github.com/daviteixeira-btm/Applications-with-Bootstrap/commits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daviteixeira-btm/Applications-with-Bootstrap?style=flat-square">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/daviteixeira-btm/SGU-Sistema-de-Gerenciamento-de-Usuarios?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/daviteixeira-btm/Applications-with-Bootstrap?style=flat-square">
 
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/daviteixeira-btm/SGU-Sistema-de-Gerenciamento-de-Usuarios?style=social">
-	<img alt="GitHub Forks" src="https://img.shields.io/github/forks/daviteixeira-btm/SGU-Sistema-de-Gerenciamento-de-Usuarios?style=social"> 
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/daviteixeira-btm/Applications-with-Bootstrap?style=social">
+	<img alt="GitHub Forks" src="https://img.shields.io/github/forks/daviteixeira-btm/Applications-with-Bootstrap?style=social"> 
 </p>
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
