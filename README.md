@@ -24,11 +24,11 @@
   <a href="#-license">License</a>
 </p>
 
-![Printsreen]()
+<img src="bootstrap-illustration.png" min-width="400px" max-width="400px" width="100%" align="center" alt="  Applications with Bootstrap">
 
 ## 👨🏻‍💻 Sobre o projeto
 <p>
-  Neste repositorio servirar para guardar projetos realizados em estudos de Bootstrap.
+	Neste repositório farei upload de alguns estudos com o framework bootstrap. 
 </p>
 
 ## 🚀 Tecnologias
